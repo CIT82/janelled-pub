@@ -9,11 +9,12 @@
 >9:00am-5:00pm on Mondays and Wednesdays
 - Ethnic studies and English
 - Escape Room
-- Bungee Jumping ![alt text](bungee-jumping.jpg) 
+- Bungee Jumping 
+![alt text](bungee-jumping.jpg) 
 ---
 >9:00am-5:00pm on Tuesdays and Thurdays
-1. Work
-2. Skydiving
+- Work
+- Skydiving
 ---
 >5:00pm-7:00pm
 #### Feed my family
