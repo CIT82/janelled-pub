@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+
+header {
+    background-color:   rgb(205, 205, 169);
+    color: rgb(253, 247, 247); 
+    padding: 10px 0;
+   /* border: 10px red dashed; */
+}
+
+main{
+    margin: 15px;
+    padding: 15px;
+    background-color: rgb(163, 196, 167);
+}
+
+h2 {
+    color: rgb(95, 128, 157);
+}
+
+p {
+    color: rgb(100, 68, 68);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+}
+
+footer{
+    background-color: beige;
+    color: black;
+    padding: 10px 0;
+}
+
+label {
+    display: block;
+}
+
+.outline {
+    border: 1px black solid;
+}
+
