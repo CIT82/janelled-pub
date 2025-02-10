@@ -1,0 +1,18 @@
+.btn-outline-primary-left {
+font-size: 35px;
+}
+
+.btn-outline-primary-middle {
+font-size: 25px;
+color: green;
+}
+
+.btn-outline-primary-right {
+font-size: 15px;
+color: rgb(189, 32, 32);
+}
+
+p {
+    font-size: 20px;
+    color: rgb(78, 26, 78);
+}
